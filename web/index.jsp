@@ -1,20 +1,23 @@
-<%-- 
-    Document   : index
-    Created on : 01/04/2015, 03:17:21 PM
-    Author     : USUARIO
---%>
-
-<%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html>
-    <head>
-    
-    <p><h> hola</h></p>
-        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>WIEXME</title>
-        
-    </head>
-    <body>
-        <h1>antigua</h1>
-    </body>
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title> BOTICA DAZA</title>
+    <link rel="stylesheet" href="css/estilos.css">
+    <link rel="stylesheet" href="bootstrap/css/bootstrap.css">
+</head>
+
+<body>
+   <HEADER>
+    <div class="cabecera">
+        <h1>
+            bienvenidos
+        </h1>
+    </div>
+   </HEADER>
+
+     <link rel="stylesheet" href="jquery/jquery-1.11.2.min.js">
+     <link rel="stylesheet" href="bootstrap/js/bootstrap.js">
+</body>
 </html>
