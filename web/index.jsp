@@ -10,9 +10,13 @@
 <body>
    <HEADER>
     <div class="cabecera"> 
-    <img src="recursos/logo1.png"width="250" height="100" > 
+    <img src="recursos/logo1.png"width="300" height="100" > 
      BOTICA DAZA 
      <img class="cabecera2" src="recursos/logo2.png" >                  
+    </div>
+
+    <div class="subcabecera">
+        MEDICAMENTOS-PERFUMERIA-MEDICENTRO
     </div>
    </HEADER>
 
