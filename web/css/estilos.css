@@ -1,10 +1,25 @@
-h1{
-	color: #FFFFFF;
-}
+
 .cabecera{
-	color: #FFFFFF;
 	background:#FA1111;
+	color: #FFFFFF;
 	height: 100px;
+
+	font-size: 500%;
+	padding: 0px;
+	margin: 5px;
+	text-align: left;
+	font-family: negrita; 
+	border-radius: 10px;
 }
+ .cabecera2{
+    width: 100px;
+	height: 95px;
+	padding: 10px;
+	margin: -10px; 
+	
+}
+ 
+
+
 
 
