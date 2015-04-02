@@ -8,7 +8,7 @@
 	padding: 0px;
 	margin: 5px;
 	text-align: left;
-	font-family: negrita; 
+	font-family: bold;
 	border-radius: 10px;
 }
  .cabecera2{
@@ -19,6 +19,30 @@
 	
 }
  
+ .piecera{
+
+ 	background:#FA1111; 
+ 	color: #FFFFFF;
+    padding: 5px;
+    margin:5px;   
+    border-radius: 10px;
+    font-family: bold;
+    text-align: center;
+
+
+ }
+
+.cuerpo{
+	height: 450px;
+	 margin-top: 70px;
+	 text-align: justify;
+
+
+
+
+}
+
+
 
 
 
